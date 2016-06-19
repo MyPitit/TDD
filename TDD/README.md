@@ -66,4 +66,4 @@ You can find the slides [here]().
 
 # Next...
 ## 2. Introduction to Jasmine
-Well done! Now we learned what is TDD and why you should **always test your code**. So let's do some tests! Click [here](https://github.com/MyPitit/TDD/tree/master/Jasmine) to get started :bowtie:
+Well done! Now we have learned what is TDD and why you should **always test your code**. So let's do some tests! Click [here](https://github.com/MyPitit/TDD/tree/master/Jasmine) to get started :bowtie:
