@@ -1,3 +1,4 @@
+# 2. Introduction to Jasmine
 
 ![readme_md_ _tdd_jasmine_ __users_mypitit_desktop_qmul_tdd](https://cloud.githubusercontent.com/assets/2573931/16177130/7e2a2ef8-361c-11e6-9ec9-171483208e5e.png)
 
@@ -114,3 +115,7 @@ Any matcher can evaluate to *a negative assertion* by chaining the call to expec
 
 ## Slides
 You can find the slides [here]().
+
+# Next...
+## 2. Introduction to Jasmine
+Well done! Now we learned what is TDD and why you should **always test your code**. So let's do some tests! Click [here](https://github.com/MyPitit/TDD/tree/master/Jasmine) to get started :bowtie:

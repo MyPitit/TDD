@@ -1,10 +1,10 @@
-# Test Driven Development (TDD)
+# 1. What is TDD?
 
-```Test Driven Development``` (```TDD```) is a software development process that relies on the repetition of a very short development cycle.
+`Test Driven Development` (`TDD`) is a software development process that relies on the repetition of a very short development cycle.
 
 ## But... Why to we need to test our code?
 
-We need ```well-tested```, ```bug-free``` software. Also, we need to increase awareness of testing, as well as writing, code. Bugs accumulate, and, if they are not found as soon as possible, they increase the costs of application maintenance.
+We need `well-tested`, `bug-free` software. Also, we need to increase awareness of testing, as well as writing, code. Bugs accumulate, and, if they are not found as soon as possible, they increase the costs of application maintenance.
 
 ![1-why_tdd_is_still_alive_and_still_worth_using-02](https://cloud.githubusercontent.com/assets/2573931/16176908/744afa0a-3614-11e6-92a5-8db6d99034fc.png)
 
@@ -63,3 +63,7 @@ If new code does not rapidly satisfy a new test, or other tests fail unexpectedl
 
 ## Slides
 You can find the slides [here]().
+
+# Next...
+## 2. Introduction to Jasmine
+Well done! Now we learned what is TDD and why you should **always test your code**. So let's do some tests! Click [here](https://github.com/MyPitit/TDD/tree/master/Jasmine) to get started :bowtie:

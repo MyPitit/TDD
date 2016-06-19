@@ -13,7 +13,8 @@ You can follow me on [Twitter](https://twitter.com/MyPitit) and on [GitHub](http
 
 # How
 ## Agenda
-#### 1. What is TDD?
+#### [1. What is TDD?](https://github.com/MyPitit/TDD/tree/master/TDD)
 You will learn: What is TDD, Why and How.
 
-#### 2. Introduction to Jasmine
+#### [2. Introduction to Jasmine](https://github.com/MyPitit/TDD/tree/master/Jasmine)
+You will learn: What is Jasmine, Why and How. 
