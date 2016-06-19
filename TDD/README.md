@@ -2,7 +2,7 @@
 
 `Test Driven Development` (`TDD`) is a software development process that relies on the repetition of a very short development cycle.
 
-## But... Why to we need to test our code?
+## But... Why do we need to test our code?
 
 We need `well-tested`, `bug-free` software. Also, we need to increase awareness of testing, as well as writing, code. Bugs accumulate, and, if they are not found as soon as possible, they increase the costs of application maintenance.
 
