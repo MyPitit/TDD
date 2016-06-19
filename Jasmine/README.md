@@ -4,26 +4,26 @@
 
 ## What?
 
-Jasmine is a ```Behaviour-driven Development``` (```BDD```) framework for testing JavaScript. It doesn't need the DOM and can run anywhere JavaScript can run.
+Jasmine is a `Behaviour-driven Development` (`BDD`) framework for testing JavaScript. It doesn't need the DOM and can run anywhere JavaScript can run.
 
-One way to think of ```BDD``` is basically writing tests in a more descriptive, sentence like style.
+One way to think of `BDD` is basically writing tests in a more descriptive, sentence like style.
 
 ## How?
-To install Jasmine go to the following github repo and download the jasmine-standalone-2.4.1.zip file:
+To install Jasmine go to the following github repo and download the `jasmine-standalone-2.4.1.zip` file:
 
 https://github.com/jasmine/jasmine/releases
 
 The zip file includes the following:
 
-+ **```SpecRunner.html``` file:** This is linked to your source and spec files. Open it in your browser when running your tests.
++ **`SpecRunner.html` file:** This is linked to your source and spec files. Open it in your browser when running your tests.
 
-+ **```spec``` folder:** Your tests go into this folder. These are ```.js``` files.
++ **`spec` folder:** Your tests go into this folder. These are `.js` files.
 
-+ **```src``` folder:** The ```js``` code under test goes here.
++ **`src` folder:** The `js` code under test goes here.
 
-+ **```lib```:** Already linked to in the ```SpecRunner.html``` file.
++ **`lib`:** Already linked to in the `SpecRunner.html` file.
 
-Before running your tests make sure you link to your src and spec files in ```SpecRunner.html```:
+Before running your tests make sure you link to your src and spec files in `SpecRunner.html`:
 
 ```html
 <!-- include source files here... -->
@@ -34,11 +34,11 @@ Before running your tests make sure you link to your src and spec files in ```Sp
 ```
 
 ## How it works?
-```Jasmine```tests are split up into ```suites```:
-+ ```suites``` describe a group of your tests
-+ ```suite```takes a ```string``` (with a description of your tests) and a ```function``` which defines the tests.
+`Jasmine` tests are split up into `suites`:
++ `suites` describe a group of your tests
++ `suite` takes a `string` (with a description of your tests) and a `function` which defines the tests.
 
-Here is an example of a ```suite``` starts with ```describe```:
+Here is an example of a `suite` starts with `describe`:
 
 ```javascript
 describe("the function we're going to test", function() {
